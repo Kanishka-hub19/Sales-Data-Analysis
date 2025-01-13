@@ -45,7 +45,7 @@ The project follows these steps:
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/Kanishka-hub19/Sales-Data-Analysis 
    ```
 2. Open `Sales Data Analysis.xlsx` to explore:
    - **Raw Data** for original sales records.
